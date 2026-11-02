@@ -6,79 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:Paivakodin ruoka
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:2026-10-19-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-TRANSP:TRANSPARENT
-SUMMARY:Broilerinjauheliha-kasviskastiketta\, Täysjyväriisiä
-DESCRIPTION:Aamupala: Luomuvehnähiutalepuuroa\, Päärynäsosetta\, Juures
- palat\nLounas.: Broilerinjauheliha-kasviskastiketta\, Täysjyväriisiä\nK
- asvislounas: Soija-papupataa\, Täysjyväriisiä\nVälipala: Marjakiisseli
- ä\, Sämpylä\, Kikhernelevitettä\, Vihanneksia
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-20-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-TRANSP:TRANSPARENT
-SUMMARY:Lahna-kirjolohipuikot\, Perunat\, Sitruunaista majoneesikastiketta
-DESCRIPTION:Aamupala: Riisipiirakka\, Kananmunaa\, Vihanneksia\nLounas.: La
- hna-kirjolohipuikot\, Perunat\, Sitruunaista majoneesikastiketta\nKasvislo
- unas: Kreikkalaiset pinaattipyörykät\, Perunat\, Sitruunaista majoneesik
- astiketta\nVälipala: Aprikoosipuuroa\, Hedelmää
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-21-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-TRANSP:TRANSPARENT
-SUMMARY:Jauhislasagnettea\, Ketsuppia\, Ruisleipää
-DESCRIPTION:Aamupala: Luomukaurapuuroa\, Marja-omenasosetta\, Hedelmää\nL
- ounas.: Jauhislasagnettea\, Ketsuppia\, Ruisleipää\nKasvislounas: Jauhis
- lasagnettea\, Ketsuppia\, Ruisleipää\nVälipala: Täysmehua\, Ruisleipä
- ä\, Juustoa\, Vihanneksia
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-22-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-TRANSP:TRANSPARENT
-SUMMARY:Kirjolohikeittoa\, Sämpylä\, Hedelmää
-DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Persikkasosetta\, Juurespala
- t\nLounas.: Kirjolohikeittoa\, Sämpylä\, Hedelmää\nKasvislounas: Punaj
- uurisosekeittoa\, Ranskankermaa\, Sämpylä\, Juustoa\, Hedelmää\nVälip
- ala: Luomujogurttia\, Persikkasosetta\, Moniviljasämpylä\, Vihanneksia
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-23-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-TRANSP:TRANSPARENT
-SUMMARY:Jauhelihakastiketta\, Tummaa sarvipastaa\, Ketsuppia
-DESCRIPTION:Aamupala: Neljän viljan luomuhiutalevelli\, Täysjyväleipää
- \, Hedelmää\nLounas.: Jauhelihakastiketta\, Tummaa sarvipastaa\, Ketsupp
- ia\nKasvislounas: Hernerouhe-juuresragua\, Tummaa sarvipastaa\, Ketsuppia\
- nVälipala: Mansikkakeittoa\, Vaaleaa leipää\, Kananmunaa\, Juurespalat
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-26-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 TRANSP:TRANSPARENT
 SUMMARY:Broilerikiusausta
 DESCRIPTION:Aamupala: Luomuohrahiutalepuuroa\, Hedelmää\nLounas.: Broiler
- ikiusausta\nKasvislounas: Puutarhurin kasvis-linssikiusausta\nVälipala: O
- menakiisseliä\, Moniviljasämpylä\, Kikhernelevitettä\, Vihanneksia
+ ikiusausta\nKasvislounas: Puutarhurin linssikiusausta\nVälipala: Omenakii
+ sseliä\, Moniviljasämpylä\, Kikhernelevitettä\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 TRANSP:TRANSPARENT
@@ -90,7 +30,7 @@ DESCRIPTION:Aamupala: Luomujogurttia\, Marjasose\, Sämpylä\, Vihanneksia\
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 TRANSP:TRANSPARENT
@@ -102,19 +42,19 @@ DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Banaanisosetta\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 TRANSP:TRANSPARENT
-SUMMARY:Kasvis-spagettivuokaa\, Ketsuppia\, Sämpylä
+SUMMARY:Spagettipataa\, Ketsuppia\, Sämpylä
 DESCRIPTION:Aamupala: Luomukaurapuuroa\, Hedelmää\, Vaaleaa leipää\, Ju
- urespalat\nLounas.: Kasvis-spagettivuokaa\, Ketsuppia\, Sämpylä\nKasvisl
- ounas: Kasvis-spagettivuokaa\, Ketsuppia\, Sämpylä\nVälipala: Persikka-
- jogurttismoothie\, Vaaleaa leipää\, Juurespalat
+ urespalat\nLounas.: Spagettipataa\, Ketsuppia\, Sämpylä\nKasvislounas: S
+ pagettipataa\, Ketsuppia\, Sämpylä\nVälipala: Persikka-jogurttismoothie
+ \, Vaaleaa leipää\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 TRANSP:TRANSPARENT
@@ -127,30 +67,30 @@ DESCRIPTION:Aamupala: Täysjyvä-mannapuuroa\, Marja-omenasosetta\, Juuresp
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 TRANSP:TRANSPARENT
 SUMMARY:Nakkikastiketta\, Perunat
 DESCRIPTION:Aamupala: Luomuvehnähiutalepuuroa\, Persikkasosetta\, Juurespa
- lat\nLounas.: Nakkikastiketta\, Perunat\nKasvislounas: Kasvisnakkikastiket
- ta\, Perunat\nVälipala: Mansikkajogurttijuoma\, Sämpylä\, Vihanneksia
+ lat\nLounas.: Nakkikastiketta\, Perunat\nKasvislounas: Vegenakkikastiketta
+ \, Perunat\nVälipala: Mansikkajogurttijuoma\, Sämpylä\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 TRANSP:TRANSPARENT
 SUMMARY:Kalapuikot\, Perunat\, Tartarkastiketta\, Moniviljasämpylä
 DESCRIPTION:Aamupala: Kaakaota\, Ruisleipää\, Kikhernelevitettä\, Hedelm
  ää\nLounas.: Kalapuikot\, Perunat\, Tartarkastiketta\, Moniviljasämpyl
- ä\nKasvislounas: Bataatti-falafelpyörykät\, Perunat\, Tartarkastiketta\
- , Moniviljasämpylä\nVälipala: Riisipuuroa\, Marjoja\, Juurespalat
+ ä\nKasvislounas: Bataatti-falafelit\, Perunat\, Tartarkastiketta\, Monivi
+ ljasämpylä\nVälipala: Riisipuuroa\, Marjoja\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 TRANSP:TRANSPARENT
@@ -162,7 +102,7 @@ DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Marja-omenasosetta\, Vihanne
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 TRANSP:TRANSPARENT
@@ -174,7 +114,7 @@ DESCRIPTION:Aamupala: Kaurahiutalevelliä luomukaurasta\, Hedelmää\, Viha
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 TRANSP:TRANSPARENT
@@ -186,7 +126,7 @@ DESCRIPTION:Aamupala: Luonnonjogurttia\, Hedelmämysliä\, Sämpylä\, Viha
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 TRANSP:TRANSPARENT
@@ -198,7 +138,7 @@ DESCRIPTION:Aamupala: Luomukaurapuuroa\, Päärynäsosetta\, Vihanneksia\nL
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 TRANSP:TRANSPARENT
@@ -212,7 +152,7 @@ DESCRIPTION:Aamupala: Täysmehua\, Sämpylä\, Juustoa\, Hedelmää\nLounas
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 TRANSP:TRANSPARENT
@@ -225,7 +165,7 @@ DESCRIPTION:Aamupala: Neljänviljan luomuhiutalepuuroa\, Hedelmää\, Juure
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 TRANSP:TRANSPARENT
@@ -237,7 +177,7 @@ DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Banaanisosetta\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 TRANSP:TRANSPARENT
@@ -250,7 +190,7 @@ DESCRIPTION:Aamupala: Luomuohrahiutalepuuroa\, Marjasose\, Täysjyväleipä
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 TRANSP:TRANSPARENT
@@ -261,7 +201,7 @@ DESCRIPTION:Aamupala: Luomuohrahiutalepuuroa\, Banaanisosetta\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 TRANSP:TRANSPARENT
@@ -275,19 +215,19 @@ DESCRIPTION:Aamupala: Täysmehua\, Sämpylä\, Sulatejuustoa\, Vihanneksia\
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 TRANSP:TRANSPARENT
 SUMMARY:Broileri-maissichowderkeittoa\, Ruisleipää\, Hedelmää
 DESCRIPTION:Aamupala: Luomuvehnähiutalepuuroa\, Marjasurvosta\, Hedelmää
  \nLounas.: Broileri-maissichowderkeittoa\, Ruisleipää\, Hedelmää\nKasv
- islounas: Linssi-kasviskeittoa\, Ruisleipää\, Hedelmää\nVälipala: Mar
- jakiisseliä\, Sämpylä\, Kikhernelevitettä\, Vihanneksia
+ islounas: Linssi-tomaattikeittoa\, Ruisleipää\, Hedelmää\nVälipala: M
+ arjakiisseliä\, Sämpylä\, Kikhernelevitettä\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -298,7 +238,7 @@ DESCRIPTION:Aamupala: Neljän viljan luomuhiutalevelli\, Moniviljasämpylä
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 TRANSP:TRANSPARENT
@@ -311,7 +251,7 @@ DESCRIPTION:Aamupala: Luomukaurapuuroa\, Hedelmää\, Vihanneksia\nLounas.:
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
@@ -323,7 +263,7 @@ DESCRIPTION:Aamupala: Luomukaurapuuroa\, Hedelmää\nLounas.: Pinaattiohuka
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 TRANSP:TRANSPARENT
@@ -335,7 +275,7 @@ DESCRIPTION:Aamupala: Luomujogurttia\, Marjasose\, Vaaleaa leipää\, Vihan
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 TRANSP:TRANSPARENT
@@ -348,19 +288,19 @@ DESCRIPTION:Aamupala: Luomuohrahiutalepuuroa\, Päärynäsosetta\, Juurespa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 TRANSP:TRANSPARENT
-SUMMARY:Härkischiliä Mexican\, Täysjyväriisiä\, Moniviljasämpylä
+SUMMARY:Mexican Härkischili\, Täysjyväriisiä\, Moniviljasämpylä
 DESCRIPTION:Aamupala: Kaakaota\, Ruisleipää\, Maksamakkaraa\, Hedelmää\
- nLounas.: Härkischiliä Mexican\, Täysjyväriisiä\, Moniviljasämpylä\
- nKasvislounas: Härkischiliä Mexican\, Täysjyväriisiä\, Moniviljasämp
- ylä\nVälipala: Mansikkapuuroa\, Marjoja\, Juurespalat
+ nLounas.: Mexican Härkischili\, Täysjyväriisiä\, Moniviljasämpylä\nK
+ asvislounas: Mexican Härkischili\, Täysjyväriisiä\, Moniviljasämpylä
+ \nVälipala: Mansikkapuuroa\, Marjoja\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -372,19 +312,19 @@ DESCRIPTION:Aamupala: Neljänviljan luomuhiutalepuuroa\, Banaanisosetta\, J
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
-SUMMARY:Broilerinjauheliha-kasviskastiketta\, Täysjyväriisiä
+SUMMARY:Broilerinjauhelihakastiketta\, Täysjyväriisiä
 DESCRIPTION:Aamupala: Luomuvehnähiutalepuuroa\, Päärynäsosetta\, Juures
- palat\nLounas.: Broilerinjauheliha-kasviskastiketta\, Täysjyväriisiä\nK
- asvislounas: Soija-papupataa\, Täysjyväriisiä\nVälipala: Marjakiisseli
- ä\, Sämpylä\, Kikhernelevitettä\, Juurespalat
+ palat\nLounas.: Broilerinjauhelihakastiketta\, Täysjyväriisiä\nKasvislo
+ unas: Soija-papupataa\, Täysjyväriisiä\nVälipala: Marjakiisseliä\, S
+ ämpylä\, Kikhernelevitettä\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 TRANSP:TRANSPARENT
@@ -396,7 +336,7 @@ DESCRIPTION:Aamupala: Riisipiirakka\, Kananmunaa\, Vihanneksia\nLounas.: Ka
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 TRANSP:TRANSPARENT
@@ -407,19 +347,19 @@ DESCRIPTION:Aamupala: Luomukaurapuuroa\, Marja-omenasosetta\, Hedelmää\nL
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 TRANSP:TRANSPARENT
 SUMMARY:Kirjolohikeittoa\, Sämpylä\, Hedelmää
 DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Persikkasosetta\, Juurespala
  t\nLounas.: Kirjolohikeittoa\, Sämpylä\, Hedelmää\nKasvislounas: Väli
- meren kasviskeittoa quornista\, Sämpylä\, Hedelmää\nVälipala: Luomujo
- gurttia\, Marjasose\, Moniviljasämpylä\, Vihanneksia
+ meren Quornkeittoa\, Sämpylä\, Hedelmää\nVälipala: Luomujogurttia\, M
+ arjasose\, Moniviljasämpylä\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 TRANSP:TRANSPARENT
@@ -434,18 +374,18 @@ DESCRIPTION:Aamupala: Neljän viljan luomuhiutalevelli\, Täysjyväleipää
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 TRANSP:TRANSPARENT
 SUMMARY:Broilerikiusausta
 DESCRIPTION:Aamupala: Luomuohrahiutalepuuroa\, Hedelmää\nLounas.: Broiler
- ikiusausta\nKasvislounas: Puutarhurin kasvis-linssikiusausta\nVälipala: O
- menakiisseliä\, Moniviljasämpylä\, Kikhernelevitettä\, Vihanneksia
+ ikiusausta\nKasvislounas: Puutarhurin linssikiusausta\nVälipala: Omenakii
+ sseliä\, Moniviljasämpylä\, Kikhernelevitettä\, Vihanneksia
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 TRANSP:TRANSPARENT
@@ -457,19 +397,19 @@ DESCRIPTION:Aamupala: Luomujogurttia\, Marjasose\, Sämpylä\, Vihanneksia\
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 TRANSP:TRANSPARENT
 SUMMARY:Kalapuikot\, Perunasosetta\, Tartarkastiketta
 DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Banaanisosetta\, Vaaleaa lei
  pää\, Vihanneksia\nLounas.: Kalapuikot\, Perunasosetta\, Tartarkastikett
- a\nKasvislounas: Bataatti-falafelpyörykät\, Perunasosetta\, Tartarkastik
- etta\nVälipala: Vegepizzaa\, Juurespalat
+ a\nKasvislounas: Bataatti-falafelit\, Perunasosetta\, Tartarkastiketta\nV
+ älipala: Vegepizzaa\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 TRANSP:TRANSPARENT
@@ -487,7 +427,7 @@ DESCRIPTION:Aamupala: Luomukaurapuuroa\, Hedelmää\, Juurespalat\nLounas.:
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 TRANSP:TRANSPARENT
@@ -499,7 +439,7 @@ DESCRIPTION:Aamupala: Täysjyvä-mannapuuroa\, Marja-omenasosetta\, Juuresp
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 TRANSP:TRANSPARENT
@@ -511,7 +451,7 @@ DESCRIPTION:Aamupala: Luomuvehnähiutalepuuroa\, Persikkasosetta\, Juurespa
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 TRANSP:TRANSPARENT
@@ -523,7 +463,7 @@ DESCRIPTION:Aamupala: Kaakaota\, Ruisleipää\, Kikhernelevitettä\, Hedelm
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 TRANSP:TRANSPARENT
@@ -537,7 +477,7 @@ DESCRIPTION:Aamupala: Luomuruishiutalepuuroa\, Marja-omenasosetta\, Vihanne
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
@@ -551,19 +491,19 @@ DESCRIPTION:Aamupala: Kaurahiutalevelliä luomukaurasta\, Hedelmää\, Viha
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
 SUMMARY:Broilericurrya\, Täysjyväriisiä
 DESCRIPTION:Aamupala: Luonnonjogurttia\, Hedelmämysliä\, Sämpylä\, Viha
- nneksia\nLounas.: Broilericurrya\, Täysjyväriisiä\nKasvislounas: Kasvis
- currya\, Täysjyväriisiä\nVälipala: Mangokiisseliä\, Ruisleipää\, Ju
- ustoa\, Juurespalat
+ nneksia\nLounas.: Broilericurrya\, Täysjyväriisiä\nKasvislounas: Quornc
+ urrya\, Täysjyväriisiä\nVälipala: Mangokiisseliä\, Ruisleipää\, Juu
+ stoa\, Juurespalat
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 TRANSP:TRANSPARENT
@@ -575,7 +515,7 @@ DESCRIPTION:Aamupala: Luomukaurapuuroa\, Päärynäsosetta\, Vihanneksia\nL
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-22-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 TRANSP:TRANSPARENT
@@ -589,14 +529,64 @@ DESCRIPTION:Aamupala: Täysmehua\, Sämpylä\, Juustoa\, Juurespalat\nLouna
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-23-paivakotiruoka@aromi.hel.fi
-DTSTAMP:20261026T083246Z
+DTSTAMP:20261102T103416Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 TRANSP:TRANSPARENT
 SUMMARY:Nakkikastiketta\, Perunat
 DESCRIPTION:Aamupala: Neljänviljan luomuhiutalepuuroa\, Hedelmää\, Täys
  jyväleipää\, Juurespalat\nLounas.: Nakkikastiketta\, Perunat\nKasvislou
- nas: Kasvisnakkikastiketta\, Perunat\nVälipala: Luomujogurttia\, Pääryn
- äsosetta\, Sämpylä\, Vihanneksia
+ nas: Vegenakkikastiketta\, Perunat\nVälipala: Luomujogurttia\, Päärynä
+ sosetta\, Sämpylä\, Vihanneksia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-28-paivakotiruoka@aromi.hel.fi
+DTSTAMP:20261102T103416Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+TRANSP:TRANSPARENT
+SUMMARY:Spagettipataa\, Ketsuppia
+DESCRIPTION:Aamupala: Luomuohrahiutalepuuroa\, Banaanisosetta\, Juurespalat
+ \nLounas.: Spagettipataa\, Ketsuppia\nKasvislounas: Spagettipataa\, Ketsup
+ pia\nVälipala: Mangolassi juotavaa jogurtti\, Moniviljasämpylä\, Vihann
+ eksia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-29-paivakotiruoka@aromi.hel.fi
+DTSTAMP:20261102T103416Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+TRANSP:TRANSPARENT
+SUMMARY:Värikkäät kasvispihvit\, Täysjyväriisiä\, Aurinkoista porkkan
+ akastiketta\, Sämpylä
+DESCRIPTION:Aamupala: Täysmehua\, Sämpylä\, Sulatejuustoa\, Vihanneksia\
+ nLounas.: Värikkäät kasvispihvit\, Täysjyväriisiä\, Aurinkoista pork
+ kanakastiketta\, Sämpylä\nKasvislounas: Värikkäät kasvispihvit\, Täy
+ sjyväriisiä\, Aurinkoista porkkanakastiketta\, Sämpylä\nVälipala: Tal
+ on tapaan
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-30-paivakotiruoka@aromi.hel.fi
+DTSTAMP:20261102T103416Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+TRANSP:TRANSPARENT
+SUMMARY:Kalakeittoa\, Ruisleipää\, Hedelmää
+DESCRIPTION:Aamupala: Luomuvehnähiutalepuuroa\, Marjasurvosta\, Hedelmää
+ \nLounas.: Kalakeittoa\, Ruisleipää\, Hedelmää\nKasvislounas: Linssi-t
+ omaattikeittoa\, Ruisleipää\, Hedelmää\nVälipala: Marjakiisseliä\, S
+ ämpylä\, Kikhernelevitettä\, Vihanneksia
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-31-paivakotiruoka@aromi.hel.fi
+DTSTAMP:20261102T103416Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Jauhelihakastiketta\, Tummaa pastaa\, Ketsuppia
+DESCRIPTION:Aamupala: Neljän viljan luomuhiutalevelli\, Moniviljasämpylä
+ \, Juurespalat\nLounas.: Jauhelihakastiketta\, Tummaa pastaa\, Ketsuppia\n
+ Kasvislounas: Hernerouhe-juuresragua\, Tummaa pastaa\, Ketsuppia\nVälipal
+ a: Mustaherukkapuuroa\, Marjoja\, Vihanneksia
 END:VEVENT
 END:VCALENDAR
